@@ -1,2 +1,2 @@
-# Training
+# Data Analysis Training
 Training Projects
